@@ -1,6 +1,6 @@
 # Vitamin D candidate-gene study pipeline
 
-##### **Author:** Jack Staples
+##### **Code Author:** Jack Staples
 
 **Overview:**
 
