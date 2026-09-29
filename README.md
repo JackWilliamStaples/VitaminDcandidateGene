@@ -2,6 +2,8 @@
 
 ##### **Code Author:** Jack Staples
 
+##### **Published Article:** Staples JW, George KM, Dalton R, Ellerbeck EE, Krause G, Lietch T, Aliwarga T, McDonald MG, Phillips B, Muzquiz LI, Nickerson DA, Thornton TA, Thummel KE, Woodahl EL. Genetic and seasonal determinants of vitamin D status in Confederated Salish and Kootenai Tribes (CSKT) participants. ScholarWorks, University of Montana (2022). https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xxkdc5UAAAAJ&sortby=pubdate&citation_for_view=Xxkdc5UAAAAJ:8k81kl-MbHgC 
+
 **Overview:**
 
 This is a repository for the code for a candidate-gene study of how genetic variation in vitamin D regulatory genes (*CASR*, *CUBN*, *CYP2R1*, *CYP3A4*, *CYP24A1*, *CYP27B1*, *DHCR7*, *GC*, *RXRA*, *RXRB*, *RXRG*, *SULT2A1*, *UGT1A*, and *VDR*), season, and demographic factors (age, body mass index [BMI], and gender) influence vitamin D phenotypes.
