@@ -2,7 +2,8 @@
 
 ##### **Code Author:** Jack Staples
 
-##### **Published Article:** Staples JW, George KM, Dalton R, Ellerbeck EE, Krause G, Lietch T, Aliwarga T, McDonald MG, Phillips B, Muzquiz LI, Nickerson DA, Thornton TA, Thummel KE, Woodahl EL. Genetic and seasonal determinants of vitamin D status in Confederated Salish and Kootenai Tribes (CSKT) participants. ScholarWorks, University of Montana (2022). https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xxkdc5UAAAAJ&sortby=pubdate&citation_for_view=Xxkdc5UAAAAJ:8k81kl-MbHgC 
+##### **Published Article:** 
+Staples JW, George KM, Dalton R, Ellerbeck EE, Krause G, Lietch T, Aliwarga T, McDonald MG, Phillips B, Muzquiz LI, Nickerson DA, Thornton TA, Thummel KE, Woodahl EL. Genetic and seasonal determinants of vitamin D status in Confederated Salish and Kootenai Tribes (CSKT) participants. ScholarWorks, University of Montana (2022). https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xxkdc5UAAAAJ&sortby=pubdate&citation_for_view=Xxkdc5UAAAAJ:8k81kl-MbHgC 
 
 **Overview:**
 
